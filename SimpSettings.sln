@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpSettings", "SimpSettings\SimpSettings.csproj", "{A689C61C-9AEC-4087-A5C1-47782A2BA352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpSettingsTest", "SimpSettingsTest\SimpSettingsTest.csproj", "{6977B157-5C52-4F62-A5A0-12CEFF63A53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A689C61C-9AEC-4087-A5C1-47782A2BA352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A689C61C-9AEC-4087-A5C1-47782A2BA352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A689C61C-9AEC-4087-A5C1-47782A2BA352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A689C61C-9AEC-4087-A5C1-47782A2BA352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6977B157-5C52-4F62-A5A0-12CEFF63A53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6977B157-5C52-4F62-A5A0-12CEFF63A53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6977B157-5C52-4F62-A5A0-12CEFF63A53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6977B157-5C52-4F62-A5A0-12CEFF63A53B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/bin/Debug/net5.0/SimpSettingsTest.deps.json
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/bin/Debug/net5.0/SimpSettingsTest.dll
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/bin/Debug/net5.0/ref/SimpSettingsTest.dll
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/bin/Debug/net5.0/SimpSettingsTest.pdb
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/bin/Debug/net5.0/SimpSettings.dll
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/bin/Debug/net5.0/SimpSettings.pdb
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/obj/Debug/net5.0/SimpSettingsTest.csproj.AssemblyReference.cache
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/obj/Debug/net5.0/SimpSettingsTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/obj/Debug/net5.0/SimpSettingsTest.AssemblyInfoInputs.cache
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/obj/Debug/net5.0/SimpSettingsTest.AssemblyInfo.cs
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/obj/Debug/net5.0/SimpSettingsTest.csproj.CoreCompileInputs.cache
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/obj/Debug/net5.0/SimpSettingsTest.dll
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/obj/Debug/net5.0/ref/SimpSettingsTest.dll
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettingsTest/obj/Debug/net5.0/SimpSettingsTest.pdb

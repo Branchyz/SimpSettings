@@ -1,0 +1,12 @@
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/bin/Debug/net5.0/SettingsManagerTest.deps.json
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/bin/Debug/net5.0/SettingsManagerTest.dll
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/bin/Debug/net5.0/ref/SettingsManagerTest.dll
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/bin/Debug/net5.0/SettingsManagerTest.pdb
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/obj/Debug/net5.0/SettingsManagerTest.csproj.AssemblyReference.cache
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/obj/Debug/net5.0/SettingsManagerTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/obj/Debug/net5.0/SettingsManagerTest.AssemblyInfoInputs.cache
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/obj/Debug/net5.0/SettingsManagerTest.AssemblyInfo.cs
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/obj/Debug/net5.0/SettingsManagerTest.csproj.CoreCompileInputs.cache
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/obj/Debug/net5.0/SettingsManagerTest.dll
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/obj/Debug/net5.0/ref/SettingsManagerTest.dll
+/Users/a2020050/RiderProjects/SettingsManager/SettingsManagerTest/obj/Debug/net5.0/SettingsManagerTest.pdb

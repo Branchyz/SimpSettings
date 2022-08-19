@@ -1,0 +1,12 @@
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/bin/Debug/net5.0/SimpSettings.deps.json
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/bin/Debug/net5.0/SimpSettings.dll
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/bin/Debug/net5.0/ref/SimpSettings.dll
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/bin/Debug/net5.0/SimpSettings.pdb
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/obj/Debug/net5.0/SimpSettings.csproj.AssemblyReference.cache
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/obj/Debug/net5.0/SimpSettings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/obj/Debug/net5.0/SimpSettings.AssemblyInfoInputs.cache
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/obj/Debug/net5.0/SimpSettings.AssemblyInfo.cs
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/obj/Debug/net5.0/SimpSettings.csproj.CoreCompileInputs.cache
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/obj/Debug/net5.0/SimpSettings.dll
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/obj/Debug/net5.0/ref/SimpSettings.dll
+/Users/a2020050/RiderProjects/SettingsManager/SimpSettings/obj/Debug/net5.0/SimpSettings.pdb
