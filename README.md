@@ -1,5 +1,4 @@
-# Simp(lefied) Settings
-#### An easy to use Settings Manager build using C#
+# Simp(lefied) Settings: An easy to use Settings Manager build using C#
 
 ## API
 ### Creating and removing a setting:
@@ -12,7 +11,7 @@ SettingsManager.AddSetting(setting);
 SettingsManager.RemoveSetting("Sensitivity");
 SettingsManager.RemoveSetting(setting);
 ```
-It doesn't matter what overload you use.
+#### It doesn't matter what overload you use.
 
 ### Getting the setting:
 ```
@@ -23,7 +22,7 @@ Console.WriteLine(sensitivity.Default);
 sensitivity.Reset();
 ```
 
-You can also get the value more easily:
+#### You can also get the value more easily:
 ```
 Console.WriteLine(SettingsManager.GetValue<int>("Sensitivity"));
 ```
@@ -41,4 +40,4 @@ File.WriteAllText("settings.json", SettingsManager.ToJson());
 SettingsManager.Load(File.ReadAllText("settings.json"));
 ```
 
-### You can use any object with a setting. It doesn't matter what the Type is.
+#### You can use any object with a setting. It doesn't matter what the Type is.
