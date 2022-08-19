@@ -1,4 +1,4 @@
-# Simp(lefied) Settings: An easy to use Settings Manager build using C#
+# Simp(lified) Settings: An easy to use Settings Manager build using C#
 
 ## API
 ### Creating and removing a setting:
