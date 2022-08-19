@@ -48,7 +48,7 @@ namespace SimpSettings
             return false;
         }
         
-        public static T GetValue<T> (string name)
+        public static T GetValue<T>(string name)
         {
             if (Settings.TryGetValue(name, out var s))
             {
