@@ -30,7 +30,7 @@ Console.WriteLine(SettingsManager.GetValue<int>("Sensitivity"));
 ### Subscribing to the OnValueChanged Event:
 ```
 SettingsManager.TryGetSetting("Sensitivity", out Setting<int> sensitivitySetting);
-sensitivitySetting.OnValueChanged += SensitivityChanged
+sensitivitySetting.OnValueChanged += SensitivityChanged;
 ```
 
 ### Saving and loading by JSON:
